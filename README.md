@@ -94,8 +94,7 @@ Dark/Light theme support
 
 👩‍💻 Developed By
 
-Nanditha
-Jahnavi
+Nanditha and Jahnavi
 
 
 
